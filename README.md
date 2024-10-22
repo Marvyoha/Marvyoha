@@ -7,7 +7,7 @@ Passionate CS student diving into Flutter/Dart for cross-platform mobile develop
 Aspiring Computer Science student at Caleb University, eager to explore the fascinating realm of mobile app development using Flutter and Dart. Equipped with a solid foundation in Java, Python, and C++ fundamentals, I'm ready to embark on an exciting journey of creating cross-platform mobile applications that merge creativity with functionality. Join me as I venture into the dynamic world of Flutter, turning ideas into innovative mobile experiences
 
 * 🌍  I'm based in Lagos, Nigeria.
-* ✉️  You can contact me at [marvyoha1@gmail.com](mailto:olewuezimarvellous@gmail.com)
+* ✉️  You can contact me at [olewuezimarvellous@gmail.com](mailto:olewuezimarvellous@gmail.com)
 * 🧠  I'm learning Flutter UI design and implementation, Using API's and SDK's in flutter, Encryption and Decryption
 
 ### Skills
