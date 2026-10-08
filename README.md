@@ -28,6 +28,15 @@ I'm a Software Engineer and Computer Science graduate of Caleb University, bridg
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
+## **Connect & Collaborate**
+
+* 🌍  I'm based in Lagos, Nigeria.
+-  **GitHub:** [@Marvyoha](https://github.com/Marvyoha)
+-  **LinkedIn:** [Connect with me](http://www.linkedin.com/in/Olewuezi-Marvellous)
+- **Portfolio:** [Check it out](https://olewuezi-marvellous-portfolio.vercel.app/)
+- **Email:** [olewuezimarvellous@gmail.com](mailto:olewuezimarvellous@gmail.com)
+- 📄 **Portfolio / Research Notes:** Exploring graduate research in On-Device Machine Learning, Edge Compute, and Efficient Multimodal AI.
+
 
 ## **Technical Arc**
 
@@ -90,16 +99,6 @@ I'm a Software Engineer and Computer Science graduate of Caleb University, bridg
 *A foundational data science study evaluating predictive survival modeling and feature influence.*
 - **Tech Stack:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib/Seaborn.
 - **Key Features:** Data cleaning, categorical feature encoding, Logistic Regression / Decision Tree baseline modeling, and confusion matrix error analysis.
-
-
-## **Connect & Collaborate**
-
-* 🌍  I'm based in Lagos, Nigeria.
--  **GitHub:** [@Marvyoha](https://github.com/Marvyoha)
--  **LinkedIn:** [Connect with me](http://www.linkedin.com/in/Olewuezi-Marvellous)
-- **Portfolio:** [Check it out](https://olewuezi-marvellous-portfolio.vercel.app/)
-- **Email:** [olewuezimarvellous@gmail.com](mailto:olewuezimarvellous@gmail.com)
-- 📄 **Portfolio / Research Notes:** Exploring graduate research in On-Device Machine Learning, Edge Compute, and Efficient Multimodal AI.
 
 
 ## **Badges**
