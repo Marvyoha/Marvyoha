@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olewuezi Marvellous
 ===========================================================================================================================================
 
+
 ## **Cross-Platform Mobile Developer / AI/ML Enthusiast**
 -------------------------------------------------------------------------------------
 
 I'm a Software Engineer and Computer Science graduate of Caleb University, bridging production mobile apps (Flutter/Dart) and efficient on-device machine learning. I take deep learning models, from Computer Vision architectures to Large Language Models, and optimize them for low-latency, privacy-first local execution on mobile and edge hardware. Built on a solid foundation in Java, Python, and C++, my work turns ideas into cross-platform experiences where creativity meets functionality.
+
 
 ## **Skills**
 
@@ -27,12 +29,14 @@ I'm a Software Engineer and Computer Science graduate of Caleb University, bridg
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
+
 ## **Technical Arc**
 
 - **Mobile Software Engineering:** Building scalable, production-ready Flutter applications (`SoleSeekers-v1.0`, Enterprise POS Systems).
 - **Machine Learning Foundations:** Rigorous mathematical and algorithmic implementation in Python (`NumPy`, `Pandas`, `Scikit-Learn`, `PyTorch`).
 - **Edge ML & Model Compression:** Exporting, pruning, and quantizing neural networks (PyTorch ➔ ONNX ➔ INT8 TFLite) for real-time local inference.
 - **Applied LLMs & NLP:** Integrating Large Language Models via structured JSON output schemas, secure key storage, and local state persistence.
+
 
 ## **Featured Projects**
 
@@ -88,6 +92,7 @@ I'm a Software Engineer and Computer Science graduate of Caleb University, bridg
 - **Tech Stack:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib/Seaborn.
 - **Key Features:** Data cleaning, categorical feature encoding, Logistic Regression / Decision Tree baseline modeling, and confusion matrix error analysis.
 
+
 ## **Connect & Collaborate**
 
 * 🌍  I'm based in Lagos, Nigeria.
@@ -96,6 +101,7 @@ I'm a Software Engineer and Computer Science graduate of Caleb University, bridg
 - **Portfolio:** [Check it out](https://olewuezi-marvellous-portfolio.vercel.app/)
 - **Email:** [olewuezimarvellous@gmail.com](mailto:olewuezimarvellous@gmail.com)
 - 📄 **Portfolio / Research Notes:** Exploring graduate research in On-Device Machine Learning, Edge Compute, and Efficient Multimodal AI.
+
 
 ## **Badges**
 
