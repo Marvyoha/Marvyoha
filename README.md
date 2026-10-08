@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 ## **Cross-Platform Mobile Developer / AI/ML Enthusiast**
--------------------------------------------------------------------------------------
 
 I'm a Software Engineer and Computer Science graduate of Caleb University, bridging production mobile apps (Flutter/Dart) and efficient on-device machine learning. I take deep learning models, from Computer Vision architectures to Large Language Models, and optimize them for low-latency, privacy-first local execution on mobile and edge hardware. Built on a solid foundation in Java, Python, and C++, my work turns ideas into cross-platform experiences where creativity meets functionality.
 
