@@ -50,7 +50,7 @@ I'm a Software Engineer and Computer Science graduate of Caleb University, bridg
   - **Security & Persistence:** Secure API key management (`flutter_secure_storage` & `flutter_dotenv`) with zero plain-text leaks, plus full offline CRUD via SQLite (`sqflite`).
   - **Polished UX:** Dynamic light/dark theme-adapting branding and responsive Space Grotesk typography.
 
-#### 💊[[PharmaAI / Pharmacy POS & Inventory System]] *(In Progress - Private repo)*
+#### 💊 *PharmaAI / Pharmacy POS & Inventory System* *(In Progress - Private repo)*
 *An enterprise-grade inventory management and Point-of-Sale (POS) system designed for retail pharmacies with embedded AI analytics and compliance tracking.*
 - **Tech Stack:** Flutter, SQLite / REST APIs, Role-Based Access Control (RBAC), Data Analytics.
 - **Key Features:**
